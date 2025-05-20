@@ -1,0 +1,3 @@
+yolo train model=yolov8s.pt data=Data//data.yaml epochs=3 imgsz=640 device=0 batch=4
+yolo train model=yolov8n.pt data=Data//data.yaml epochs=20 imgsz=640 device=0 batch=2  amp=True
+yolo train model=yolov8n.pt data=datasets//data.yaml epochs=20 imgsz=640 device=0 batch=2  amp=True
