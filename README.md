@@ -4,28 +4,6 @@
 
 ---
 
-## 📂 Materials /Software Used for Implementation:
-
-### HARDWARE REQUIREMENT
-
--	Processor        		: Intel core processor 2.6.0 GHZ
--	RAM 			: 1GB
--	Hard disk        		: 160 GB
--	Compact Disk 		: 650 Mb
--	Keyboard        		: Standard keyboard
--	Monitor           	           :15-inch color monitor
-
-### SOFTWARE REQUIREMENT
-
-- Server Side 			: Python 3.7.4(64-bit) or (32-bit) 
-- Client Side			: HTML, CSS, Bootstrap 
--	 IDE            			: Flask 1.1.1 
--	 Back end    			: MySQL 5. 
--	 Server     			: WampServer 2i
--	 OS           			: Windows 10 64 –bit
-
----
-
 ## 📌 Features
 
 - ⚙️ **Automated defect detection** using CNNs (e.g., ResNet, YOLO, UNet)
@@ -37,6 +15,7 @@
 - 📁 Custom dataset support
 
 ---
+
 ## Architecture Diagram
 
 <p align="center">
@@ -61,10 +40,63 @@
 
 ---
 
-## 📷 Sample Outputs
+## 📂 Materials /Software Used for Implementation:
 
+### HARDWARE REQUIREMENT
+
+-	Processor        		: Intel core processor 2.6.0 GHZ
+-	RAM 			: 1GB
+-	Hard disk        		: 160 GB
+-	Compact Disk 		: 650 Mb
+-	Keyboard        		: Standard keyboard
+-	Monitor           	           :15-inch color monitor
+  
+### SOFTWARE REQUIREMENT
+
+- Server Side 			: Python 3.7.4(64-bit) or (32-bit) 
+- Client Side			: HTML, CSS, Bootstrap 
+-	 IDE            			: Flask 1.1.1 
+-	 Back end    			: MySQL 5. 
+-	 Server     			: WampServer 2i
+-	 OS           			: Windows 10 64 –bit
+
+---
+
+## 📷 Outputs
+
+### 1. Home Page
 <p align="center">
-  <img src="alert.jpg" alt="Sample Output" width="600"/>
+  <img src="Homepage.png" alt="Sample Output" width="600"/>
+</p>
+
+### 2. Image Selection
+<p align="center">
+  <img src="Image Selection.png" alt="Sample Output" width="600"/>
+</p>
+
+### 3. Grey Scale Conversion
+<p align="center">
+  <img src="Grey Scale Conversion.png" alt="Sample Output" width="600"/>
+</p>
+
+### 4. Final Output (Image Selection)
+<p align="center">
+  <img src="output.png" alt="Sample Output" width="600"/>
+</p>
+
+### 5. Final Output (Camera Selection)
+<p align="center">
+  <img src="Screenshot 2025-05-21 090942.png" alt="Sample Output" width="600"/>
+</p>
+
+### 6. Email Alert
+<p align="center">
+  <img src="email alert.png" alt="Sample Output" width="600"/>
+</p>
+
+### 7. SMS Alert
+<p align="center">
+  <img src="SMS alert.png" alt="Sample Output" width="250"/>
 </p>
 
 ---
