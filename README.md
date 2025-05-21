@@ -37,6 +37,13 @@
 - 📁 Custom dataset support
 
 ---
+## Architecture Diagram
+
+<p align="center">
+  <img src="Screenshot%202025-05-21%20101455.png" alt="Sample Output" width="600"/>
+</p>
+
+---
 
 ## Feasibility for Product Making:
 
